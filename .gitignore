@@ -131,3 +131,4 @@ dmypy.json
 #data
 *.tar
 256_ObjectCategories
+*.DS_Store
