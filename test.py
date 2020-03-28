@@ -7,3 +7,10 @@ folders.sort()
 for f in folders:
     print(f)
 
+
+#read the folders and keep images in different categories
+
+#data pre-processing
+# make the image square
+# flatten
+
